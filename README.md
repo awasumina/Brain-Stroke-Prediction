@@ -49,7 +49,7 @@ Multiple classifiers were used to predict strokes, and their performances were c
 - **Logistic Regression**
 - **Decision Tree**
 - **Random Forest**: Hyperparameter tuning was done using a parameter grid to optimize the Random Forest classifier for improved prediction accuracy.
-
+  
 ## Results
 
 - **Naive Bayes**: Achieved an accuracy of 86.35%
